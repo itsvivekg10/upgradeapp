@@ -1,0 +1,36 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 350px;
+  height: 250px;
+  border: 1px solid #ccc; /* Changed border color to a lighter shade */
+  border-radius: 8px; /* Added border-radius for rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added a subtle shadow effect */
+}
+
+.logo1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.title1 {
+  text-align: center;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-control1 {
+  width: 260px;
+  height: 30px;
+  align-self: center;
+  border-radius: 0%;
+}
+.btn1 {
+  width: 0px;
+}

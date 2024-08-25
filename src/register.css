@@ -1,0 +1,127 @@
+/* .Container1 {
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 350px;
+  height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 500px;
+}
+
+.formWrapper {
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form input {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.form button {
+  width: 100%;
+  height: 40px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  margin-top: 20px;
+} */
+.Container1 {
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 350px;
+  height: 430px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: auto;
+  margin-right: auto;
+}
+.photo {
+  border-style: none;
+}
+
+/* Media query for small screens */
+@media screen and (max-width: 576px) {
+  .Container1 {
+    width: 90%; /* Adjust width to fit smaller screens */
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.formWrapper {
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form input {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.form button {
+  width: 100%;
+  height: 40px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  margin-top: 20px;
+}
